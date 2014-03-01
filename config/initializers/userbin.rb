@@ -15,7 +15,6 @@ Userbin.configure do |config|
       user.last_name  = profile.last_name
       user.username   = profile.username
       user.email      = profile.email
-      user.image      = profile.image
     end
   }
 

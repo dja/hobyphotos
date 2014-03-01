@@ -8,7 +8,7 @@ gem "userbin"
 gem 'aws-sdk' # S3 API
 gem 'paperclip' # file attachment syntax and callbacks
 gem 's3_direct_upload' # direct upload form helper and assets
-
+gem 'delayed_job_active_record'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
